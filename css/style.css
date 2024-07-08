@@ -110,7 +110,7 @@ body{
 
 /*history section start*/
 .history{
-	padding: var(--sp) 0;
+	padding-top: var(--sp);
 	background-color: var(--greybgg);
 }
 .h_sec{
